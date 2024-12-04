@@ -1,0 +1,25 @@
+# Core RL dependencies
+gymnasium
+numpy
+tensorflow
+keras-rl2
+keras
+h5py
+pygame
+matplotlib
+scipy
+six
+pillow
+pandas
+black
+isort
+flake8
+pytest
+pytest-cov
+tensorboard
+wandb
+tqdm
+joblib
+cloudpickle
+PyYAML
+colorama
