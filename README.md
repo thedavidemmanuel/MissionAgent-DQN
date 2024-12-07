@@ -1,9 +1,8 @@
-````markdown
 # Financial Literacy Grid DQN
 
 ## Project Description
 
-The **Financial Literacy Grid DQN** project is a reinforcement learning simulation designed to teach an AI agent how to make smart financial decisions. The agent represents an individual navigating a grid-based world that simulates various financial opportunities and challenges, such as earning income, making investments, incurring expenses, and learning financial tips. The primary goal is to help the agent achieve its savings target while balancing risks and rewards through effective decision-making.
+The **Financial Literacy Grid DQN** project is a reinforcement learning simulation designed to teach an AI agent how to make smart financial decisions. The agent navigates a grid-based world simulating various financial opportunities and challenges, such as earning income, making investments, incurring expenses, and learning financial tips. The primary goal is to help the agent achieve its savings target while balancing risks and rewards through effective decision-making.
 
 This project serves as a unique educational tool for understanding financial principles through reinforcement learning. It incorporates financial literacy scoring, risk management, and dynamic decision-making in a gamified environment.
 
@@ -38,7 +37,6 @@ Pygame
 Gymnasium
 NumPy
 ```
-````
 
 ---
 
@@ -59,6 +57,7 @@ NumPy
    ```
 
 3. Install the dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -199,5 +198,4 @@ Feel free to reach out with questions or suggestions for improvement! 🎉
 
 ```
 
----
 ```
