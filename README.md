@@ -20,8 +20,8 @@ This project serves as a unique educational tool for understanding financial pri
 
 ## Demo
 
-- 📹 [Simulation Video Demo](https://youtu.be/your_video_link)
-- 📂 [Extended Learning Session](https://drive.google.com/file/your_link)
+- 📹 [Simulation Video Demo](https://youtu.be/Myse9DWuUKQ)
+- 📂 [Demo Video](https://drive.google.com/file/your_link)
 
 ---
 
