@@ -21,7 +21,6 @@ This project serves as a unique educational tool for understanding financial pri
 ## Demo
 
 - 📹 [Simulation Video Demo](https://youtu.be/Myse9DWuUKQ)
-- 📂 [Demo Video](https://www.loom.com/share/f5caa6e4ed8b425a99444704e4c3ad94?sid=b8a7a5db-ad46-401c-a409-55a62c695da5)
 
 ---
 
